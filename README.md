@@ -1,4 +1,4 @@
-# cats vs dogs + Flask + Dockers + Kubernetes
+# cats vs dogs
 Hello Team,
 
 I have worked on the task which you have shared with me. I have almost Done what in know and what I worked tools and services.
