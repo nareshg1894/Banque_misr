@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Rietesh "rietesh4535@gmail.com"
+MAINTAINER Naresh "nareshg653@gmail.com"
 RUN apt-get update -y
 RUN apt-get install -y python3-pip python3-dev build-essential libsm6 libxext6 libxrender-dev
 COPY . /image_classifier
